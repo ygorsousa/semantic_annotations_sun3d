@@ -19,3 +19,9 @@ Originally, a file was generated for each path also containing a spatial positio
 ## More information
 
 The semantic annotations were made as part of my PhD research. You can find more information about them and the annotation process in my PhD thesis (Chapter 5, Sections 5.4.2.1 to 5.4.2.5)), available [here](https://repositorio.ufpe.br/handle/123456789/55203).
+
+## Citation 
+
+If you use the semantic annotations, please cite my thesis as below.
+
+- SOUSA, Ygor César Nogueira. A new approach to semantic mapping using reusable consolidated visual representations. Thesis (PhD in Computer Science) – Universidade Federal de Pernambuco, Recife, 2023.
