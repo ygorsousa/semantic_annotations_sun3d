@@ -22,6 +22,6 @@ The semantic annotations were made as part of my PhD research. You can find more
 
 ## Citation 
 
-If you use the semantic annotations, please cite my thesis as below.
+If you use the semantic annotations, please cite my thesis as below:
 
 - SOUSA, Ygor César Nogueira. A new approach to semantic mapping using reusable consolidated visual representations. Thesis (PhD in Computer Science) – Universidade Federal de Pernambuco, Recife, 2023.
